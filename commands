@@ -1,0 +1,11 @@
+kaggle list competitions: liste compets
+kaggle list datasets: list datasets
+kaggle download X
+list : list files with info
+
+load : interactive. choose train or test
+  	=> context is df
+	head n
+	tail n
+
+	 
